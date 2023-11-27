@@ -114,15 +114,15 @@ gantt
     title Project Timeline
 
     dateFormat  YYYY-MM
-    axisFormat  %Y-%M
+    axisFormat  %Y-%m
 
-    section Q1 2023
+    section Q4 2023
     Conceptualization and Whitepaper Release: done, des1, 2023-12, 2024-01
 
     section Q1 2024
     Development of Quantum-Resistant Cryptography: crit, active, des2, 2024-01, 2024-03
 
-    section Q2 2024
+    section Q2,Q3 2024
     Integration of AI Compliance Algorithms: des3, 2024-03, 2024-06
     Alpha Network Launch and Closed Beta Testing: des4, 2024-06, 2024-10
 
@@ -137,7 +137,6 @@ gantt
 
     section Q3 2025 onwards
     Post-Launch Upgrades and Feature Expansions: des8, 2025-05, 2026-01
-
 ```
 
 
